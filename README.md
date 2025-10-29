@@ -1,1 +1,26 @@
 # First-Game
+{
+  "id": "pack_logic_v1",
+  "name": "ألغاز المنطق",
+  "version": 1,
+  "questions": [
+    {
+      "id": "LQ1",
+      "text": "شيء يراك ولا تراه؟",
+      "choices": ["الظل", "الهواء", "المرآة", "الزجاج"],
+      "correctIndex": 2,
+      "hint": "تراك عندما تنظر إليها.",
+      "difficulty": "easy",
+      "category": "logic"
+    },
+    {
+      "id": "LQ2",
+      "text": "ما الشيء الذي كلما أخذت منه كبر؟",
+      "choices": ["الحفرة", "العمر", "الوقت", "السر"],
+      "correctIndex": 0,
+      "hint": "فكّر في الأرض.",
+      "difficulty": "medium",
+      "category": "logic"
+    }
+  ]
+}
