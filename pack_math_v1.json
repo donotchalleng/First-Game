@@ -1,0 +1,35 @@
+{
+  "id": "pack_math_v1",
+  "name": "ألغاز الرياضيات",
+  "version": 1,
+  "questions": [
+    {
+      "id": "M1",
+      "text": "كم حاصل ضرب 9 × 9؟",
+      "choices": [
+        "81",
+        "99",
+        "72",
+        "90"
+      ],
+      "correctIndex": 0,
+      "hint": "9×9 = 81.",
+      "difficulty": "easy",
+      "category": "math"
+    },
+    {
+      "id": "M2",
+      "text": "إذا كان 3x = 15، فما قيمة x؟",
+      "choices": [
+        "5",
+        "3",
+        "4",
+        "6"
+      ],
+      "correctIndex": 0,
+      "hint": "اقسم الطرفين على 3.",
+      "difficulty": "easy",
+      "category": "math"
+    }
+  ]
+}
